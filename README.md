@@ -2,7 +2,10 @@ DESCRIPTION
 
 This is a childhood class game of Tic Tac Toe.   I have created this project for learning purposes.  Learning to manage states, parents and child components.  
 
-The game is how
+ROAD MAP - Improvements
+ - Implentation of a celbration where the winner is declared in a gaudy way.
+ - Reset Button
+
 
 HOW TO RUN
 
@@ -16,8 +19,7 @@ LICENSE
 MIT LICENSE in the License File
 
 
-
-
+-- Below is that part, but I want to keep here for now, since Im still learning and may server as a reminder. 
 
 
 # Getting Started with Create React App
