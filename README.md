@@ -1,3 +1,25 @@
+DESCRIPTION 
+
+This is a childhood class game of Tic Tac Toe.   I have created this project for learning purposes.  Learning to manage states, parents and child components.  
+
+The game is how
+
+HOW TO RUN
+
+Simply go here. Live working page
+https://skwong-code.github.io/tic-tac-toe/
+
+I have setup a Github pages so it would be easier to run or you can read the automatic generated information how to run below. 
+
+
+LICENSE
+MIT LICENSE in the License File
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
